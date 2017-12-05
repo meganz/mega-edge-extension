@@ -22,9 +22,7 @@ chrome.webRequest.onBeforeRequest.addListener(
             var hash = '';
             if (details.url.indexOf('#') > -1) hash = '#' + details.url.split('#')[1];
 			else if (details.url.indexOf('https://mega.nz/') > -1 && details.url.length > 16) hash = '#' + details.url.split('https://mega.nz/')[1];
-			var link = details.url;
 			var dest = chrome.extension.getURL("mega/secure.html" + hash);
-			console.info('src : ' + link +'  dest: '+dest);
             return { redirectUrl:  dest };
         }
     },
