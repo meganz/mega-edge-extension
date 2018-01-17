@@ -1,0 +1,41 @@
+{
+  "author": "MEGA",
+  "background": {
+    "page": "background.html",
+    "persistent": true
+  },
+  "content_security_policy": "script-src 'self' 'unsafe-eval' blob: https://*.mega.co.nz/ https://*.mega.nz/; object-src 'self' https://*.mega.co.nz/ https://*.mega.nz/; img-src 'self' https://*.mega.co.nz/ https://*.mega.nz/ blob: data:; font-src 'self' https://*.mega.co.nz/ https://*.mega.nz/;frame-src 'self' mega: data:",
+  "description": "Secure Cloud Storage and Chat",
+  "homepage_url": "https://mega.nz/",
+  "icons": {
+    "16": "images/icon_16.png",
+    "48": "images/icon_48.png",
+    "128": "images/icon_128.png"
+  },
+  "manifest_version": 2,
+  "name": "Mega Limited",
+  "permissions": [
+    "webRequest",
+    "webRequestBlocking",
+    "https://mega.co.nz/",
+    "https://mega.nz/",
+    "unlimitedStorage",
+    "clipboardWrite",
+	"tabs"
+  ],
+  "version": "1.0.0",
+  "web_accessible_resources": [
+    "mega/secure.html"
+  ],
+  "-ms-preload": {
+    "backgroundScript": "backgroundScriptsAPIBridge.js",
+    "contentScript": "contentScriptsAPIBridge.js"
+  },
+  "browser_action": {
+    "default_icon": {
+      "20": "buttons/favicon-16.png",
+      "40": "buttons/favicon-32.png"
+    },
+    "default_title": "MEGA"
+  }
+}

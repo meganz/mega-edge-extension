@@ -1,0 +1,1837 @@
+Manifest-Version: 1.0
+
+Name: icon.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: srBA2qZ0qRb90vGvSgnRBA==
+SHA1-Digest: 8iMFriSgNGUuqGeBoqTEZ+63Ah0=
+
+Name: LICENCE.md
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: p+UdtOms/KIpd7L2hzOwjQ==
+SHA1-Digest: pD6hUZThhvXwBA1kfybCqH3QNuI=
+
+Name: manifest.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 9gu53D2W+xdjVOp0qfM5rw==
+SHA1-Digest: /oJz0lvtDXdY2PkKklcp2aj+HY4=
+
+Name: mega.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Sd+FoWYfILRPFURyP3rRJA==
+SHA1-Digest: seO/HbEC2k2KJdT7Xyy1qXT7+Bc=
+
+Name: buttons/favicon-16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: bRK8bRhlEKxC/IQgIfWE7g==
+SHA1-Digest: 7PoX8Fop1SD3p172ZWR1aPOp9LU=
+
+Name: buttons/favicon-32.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Y/upALMASELD7+/Y7uppCA==
+SHA1-Digest: IlYhPoRJNkOVqceMGwn4WXsPtRM=
+
+Name: buttons/favicon-64.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KlQrVtQvLrdGvuv4h5k8Kg==
+SHA1-Digest: Y3yFxwALuF6oaBzl5u18i17EuAw=
+
+Name: images/icon_128.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: bU+ClaTBpej9qP/rA6Tf7A==
+SHA1-Digest: X2toZ18bDkA1tMmH4GTDWhqmzkc=
+
+Name: images/icon_16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: oOpU0fJ3Oi1++V3TNPPwGA==
+SHA1-Digest: IxNpCUOwAd2fqG8g13NC0dYYfyc=
+
+Name: images/icon_48.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: QU6FYtINOUFTSucHOTV/eQ==
+SHA1-Digest: n4AwI13ILbMzfeurSh88w/gWLeo=
+
+Name: images/mega/loading-sprite_v4.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 0qrp8gLAPkbGbYMZIDu0gA==
+SHA1-Digest: JCrD7LDBoK8OgEnhv6uRmhEPTno=
+
+Name: images/mega/loading-sprite_v4@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: QNQUNfcgYYC7XYzTwFtp9A==
+SHA1-Digest: AF0HCeWc45MsXNYNNAJm8F4e9jc=
+
+Name: images/mega/new-startpage-sprite_v5.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ecR/4IWb2lRYxT4LO7p5HQ==
+SHA1-Digest: EzXP1Tkogo0EysxelztCg1ZGVNo=
+
+Name: images/mega/new-startpage-sprite_v5@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: udVKYsN4V8Vgne4HaA0DcA==
+SHA1-Digest: TvfJKAftHsk9V52PBbIPsdnHgeE=
+
+Name: mega/aesasm.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: pg0gwMsv/FBY/4fWKk8Zjw==
+SHA1-Digest: QeZ8fs+y1khXWsjfrmjER/EMmN0=
+
+Name: mega/decrypter.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 6yYcGz3a/Dp4ZS3GA24qZg==
+SHA1-Digest: 4l/prbmZky7UfVUE7j7282hjubw=
+
+Name: mega/encrypter.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1P9GbSrpd5+3YSjjKpppkw==
+SHA1-Digest: rSfaQ9D5WV0dGUjEuIF9wEz7Omw=
+
+Name: mega/favicon.ico
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: cvE/pfmH6pI6aKgY04+1QA==
+SHA1-Digest: 8BRiDTV4f8/e8ZPCC7OD9WVbnh4=
+
+Name: mega/index.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: BcZb+6NCGCGS7TajWiVZyg==
+SHA1-Digest: Z350sPMB+/CHVV+dJyd+NHqFSHQ=
+
+Name: mega/keygen.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ZcQO91VXFj6PFCNOKzmcKA==
+SHA1-Digest: r0pPURW0Z4VGvHRGjz9HJuPN1pM=
+
+Name: mega/makecache.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 0tkU2Tp7ltRquDJ6fdjEEA==
+SHA1-Digest: TEjRvtceUG5aU9yEGjfoldXfnhY=
+
+Name: mega/nacl-fast.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: G6i6z5udcCFqD/kpyrYiLA==
+SHA1-Digest: jNzl4rKN4TIw/heO0r888Tnp8Z8=
+
+Name: mega/naclworker.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: W/zZGVsy2/iNvfjKZaI/ng==
+SHA1-Digest: g06VzyjSfey0ViVhstRMiA3ycBo=
+
+Name: mega/nodedec.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /7lLZoHc7VwV1Pmgwp0vyw==
+SHA1-Digest: OmAYI0v1CFbt2sdqYMS8U7CK+lU=
+
+Name: mega/pdf.worker.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 2L+si8GSLsQbN16cwyfDHw==
+SHA1-Digest: iM85IrMfiQBLhKfEh1Dgm7J3Qs0=
+
+Name: mega/rsaasm.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: h+y5ZGbta5oMFMO/Nl3Xbw==
+SHA1-Digest: JuCKKO6MpDlbuz1iKH67pYwOb0Y=
+
+Name: mega/secure.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7f6DwEEFQOgy3QYsj9dC1g==
+SHA1-Digest: KDshxLvs8vkoGIj+mNKNCVZ8Nmk=
+
+Name: mega/secureboot.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: eMM53T21BwhtNdq8BGNaJA==
+SHA1-Digest: WO8YjLQZhqKrWD4htS3eyh4q6iA=
+
+Name: mega/sjcl.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: pa3TOdD8B6O/GFVaP/qV8w==
+SHA1-Digest: HCH1fEyU42ord+fVEZmcwKEPIAc=
+
+Name: mega/css/avatars.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: TCHmf25jufHZrqshOLHH/Q==
+SHA1-Digest: YvASym6PXcLy1j+SHhJk6Bn15Bw=
+
+Name: mega/css/bottom-menu.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +K7hyxsYXSWayjD+n46k2Q==
+SHA1-Digest: cvjrgriCtp+lgAtuI/u5XRt2gNw=
+
+Name: mega/css/bottom-pages.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: OUeKZN9wUwh0dBaNqITJkw==
+SHA1-Digest: l/crWZ5midnp6XQuxsS0BzIxSv4=
+
+Name: mega/css/buttons.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qPdqX6WoSSwIdv7Zx14Tmw==
+SHA1-Digest: QqVNs0RN46Q0zHSnCZ4/tqpDmNs=
+
+Name: mega/css/chat-calls.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 3rNrd4XOqnf/znRh4cdf2A==
+SHA1-Digest: 7HVuF1ZXR3l5FKlT/AdsTyuRESQ=
+
+Name: mega/css/chat-common.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ByROAHfW3HN11TgulCAndQ==
+SHA1-Digest: XR3CAKBW/uCB++WFCMtqE6umAyA=
+
+Name: mega/css/chat-emoji.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: wyaXGMD4swuF2tLXuWfJHA==
+SHA1-Digest: M+S5U8kZyraYnsZf7EKPd///1qw=
+
+Name: mega/css/chat-feedback.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: lrKk1YrVG5HiBx4eDH0J9g==
+SHA1-Digest: pof9tbCT/kvHiufejOjCzx82cIw=
+
+Name: mega/css/chat-left-pane.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: DiuUg5gUGWuLgGOSF/Ae2w==
+SHA1-Digest: g1Ib2mYN6Eb1vXhXlejfaFi2jVw=
+
+Name: mega/css/chat-messages.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: SANtuzEIfkXWxKetwHSVCg==
+SHA1-Digest: 6HQyhA/qz+Z0r08mDMBt3px0slQ=
+
+Name: mega/css/chat-share-links.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: OlNC3joW3ViGqPjY8kOWwQ==
+SHA1-Digest: pZlTDYxkpA2sz/gyXMQECZoFYFU=
+
+Name: mega/css/chat-textarea.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: V/r1Ov//5Wiaw4nsvTScig==
+SHA1-Digest: MJZiJo2PkGZni3Q5OLdeWPVfQyw=
+
+Name: mega/css/chat-typing.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: SRNHtFX2XkmL06u0FWdGiA==
+SHA1-Digest: SJN6we3b8CeNpDGZ3NfeybqRzKI=
+
+Name: mega/css/data-blocks-view.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: AfozH33KUufe2iziG1n3Fw==
+SHA1-Digest: neCM7fsppvVKK+BFUcD/k7PhLTQ=
+
+Name: mega/css/dialogs.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Nh5jW9BwgqpJeoM9KMtemQ==
+SHA1-Digest: KY0GPJs84CebBIfpsQcN8D9IKJE=
+
+Name: mega/css/download.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 2rAoQ33LYq+Yj4AT0KXkqA==
+SHA1-Digest: zBbzQLY0s3UaJweatKm6PqnbPCk=
+
+Name: mega/css/dropdowns.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ygHU4KJkrFNIFbn7qtpMMA==
+SHA1-Digest: Yj+8NKFO00UTDXdbbCMR2PyOEig=
+
+Name: mega/css/fm-lists.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: A3E9GL3sEAXMIHTu87YuvQ==
+SHA1-Digest: l0yWsv4RYmB2Hl/rEK1VcvW1v/E=
+
+Name: mega/css/help2.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: tIC47jDUYfQ91uZkb8D6FQ==
+SHA1-Digest: ntxUZjBwoAJ46b2MilML9RFQ/wc=
+
+Name: mega/css/icons.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: yqURlyFb0CfeojXgh140Cg==
+SHA1-Digest: LD5aEmRn0fblpAiMQlRK3u2USMw=
+
+Name: mega/css/media-print.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jJl0j0/NvJJ7PpswTVxLLw==
+SHA1-Digest: wYc7i8sVutXtGi8WhZJp0RBqx8o=
+
+Name: mega/css/media-viewer.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: XDO+dL6HYrDu43R8IPupcA==
+SHA1-Digest: C2FNzddg45ac+1mL+opetvbva8w=
+
+Name: mega/css/mobile-help.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: mPc3yA5Ap0+XPxbu4f8FNQ==
+SHA1-Digest: 1Qfu2h6MyusPgIJoeHsMi8eOmjU=
+
+Name: mega/css/mobile.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: lMw4+pBh53X3km+2zL1sLw==
+SHA1-Digest: AmBE4Uo6HQ5GDXqqPUFPNoAw7Xw=
+
+Name: mega/css/onboarding.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: baDJwOjlCIXdpW+9+c7J9Q==
+SHA1-Digest: gIVAAdDiYYcFhn3cMaKmNa61nes=
+
+Name: mega/css/pdfViewer.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 9kCPp1IF2Pq4ds2SGDdHiQ==
+SHA1-Digest: G5MkjdloahK+LEGiqUJn/Zbk/Rk=
+
+Name: mega/css/popups.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: xAf4yJueg8JO0qh5mDMasQ==
+SHA1-Digest: b30x8qJqs4zcZxoVswoE0sp2Obw=
+
+Name: mega/css/pro.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: UgjW/HhU5/TBuF1UDqSeww==
+SHA1-Digest: d2uUP6ZcaeuShL5wXdWY/mRiJLc=
+
+Name: mega/css/retina-images.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KHn9WGgqgKmKILRvI53iPA==
+SHA1-Digest: u8tL0p7W4QjaPoNbV4l6ylUfZtY=
+
+Name: mega/css/spinners.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: JA73OjRM7Rpr96KILPu6zg==
+SHA1-Digest: ERQDQ/TH2tUMwW4dHzWY2V/xVQg=
+
+Name: mega/css/startpage.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: oAgaG0OTAsWz3aG3yD2+Hg==
+SHA1-Digest: m3icUvj6aSneQHh+wgaoTbf9hVM=
+
+Name: mega/css/style.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Lvh13cyWBrV9RpKELVzO3g==
+SHA1-Digest: Er3f1uFmzpYnuagqixloiBEW4cQ=
+
+Name: mega/css/toast.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: hHtsohBXx2PYrGbCWcvd/Q==
+SHA1-Digest: pm4r/w4RcZPWg0ce7xQXqkFTnsk=
+
+Name: mega/css/top-menu.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: yr6fEGT4yKLn7vZA+4bw2w==
+SHA1-Digest: VXECr88FAK7l6+2093UVDO5ZV7A=
+
+Name: mega/css/user-card.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 9sSpiL8NDPUyjwfcayXAxQ==
+SHA1-Digest: 2GsTAjTYYKz5oJnB2JNgsTkhJaU=
+
+Name: mega/css/vendor/perfect-scrollbar.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: mQssdIACFDE/105tgnaWnQ==
+SHA1-Digest: 7E5RFLV+ACmaYLMoVo8fNwfDFq8=
+
+Name: mega/html/about.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: gY0Pn4greOESohIfJaEQ2g==
+SHA1-Digest: 47NxYbDIfXVO6jKMSy4lT0FzOMg=
+
+Name: mega/html/android.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +8qO5w/M11LGw95X9lFIOQ==
+SHA1-Digest: sSO//0lxGYI3Wnjz7yEklRO/VxE=
+
+Name: mega/html/backup.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: DLFR0VjSzO76hfG+vDwKbQ==
+SHA1-Digest: DmYulMDJKbbcEqmb8EQIzKdrDpk=
+
+Name: mega/html/blog.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: awXiHRu2A9ZBWy7Ab+O4fw==
+SHA1-Digest: CsK1JyX8bhAn049K4nveRAeJfH4=
+
+Name: mega/html/blogarticle.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: L61R+vREF93WEd5fPhZebw==
+SHA1-Digest: 8zKGXjOp5wpYoiu3yiz7b8XMyHk=
+
+Name: mega/html/bottom2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 329EMI9KIb07tz8yJWZa0Q==
+SHA1-Digest: X16Rfr/l2CUJUUCLuovuQlv8s4k=
+
+Name: mega/html/browsers.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: gz6Sg8YTOrHUwwQt5QH43A==
+SHA1-Digest: W7OoT/KGRtUf5JoslPpQmloqB3k=
+
+Name: mega/html/cancel.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: JEtjIOVF1RnS0S/IQRzDZw==
+SHA1-Digest: 1gpukKtCGPHMkSe8/+45hlYA8MM=
+
+Name: mega/html/contact.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 79H0/IZ4300n5TQo8pDFmQ==
+SHA1-Digest: ISsyqACUgd4j3HGr24yW1SL75AQ=
+
+Name: mega/html/copyright.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 5a130NKd/4Io0+pfiTBQbQ==
+SHA1-Digest: nTtu4nP+XKIIjYarVy6RYGL8ZQ4=
+
+Name: mega/html/copyrightnotice.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: a4sbLtkDn+D2wQkrlePrAg==
+SHA1-Digest: FnD2qoxsdynriia6+EPOL/LSTgA=
+
+Name: mega/html/credits.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: y7LtqAyGwxlEOIbrTpw9GQ==
+SHA1-Digest: uFA1JSLoiElFiWK6gYhleCqqfCc=
+
+Name: mega/html/dev.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 0kQJbZpFhHv1cjnnXMnRuA==
+SHA1-Digest: qovNmwIo1/Cou15c69i9ODf3TIk=
+
+Name: mega/html/dialogs.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: QOSYa2ralkagACQJ4645+Q==
+SHA1-Digest: C5mXP/oxj1lhwCS2qHg64MHgv9E=
+
+Name: mega/html/dispute.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: z9CobM3w/snhdpEYm1Zhwg==
+SHA1-Digest: JkKwUyFsiD/HpkLNzyb/nvhBt+M=
+
+Name: mega/html/disputenotice.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: AuerujG8/QCE/rgHyxdnVA==
+SHA1-Digest: aSU1rV/nS62gXX2jlZCWj5QVuFE=
+
+Name: mega/html/download.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: QiGXa+i2XuNCCeQx5GbQmQ==
+SHA1-Digest: 2qO6FrWnLoRIx6H9Labp82eT6Nk=
+
+Name: mega/html/emailchange.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: GSgTCqUbY77Iez9ZN6nr8g==
+SHA1-Digest: k/o3xzTIMi/djShaAHqBYpQtiIk=
+
+Name: mega/html/fm.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: wBR7OoVed/JOOcaZ+jfTPg==
+SHA1-Digest: C6UNYEhRiWF41YKWHBhI41ktBcU=
+
+Name: mega/html/general.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: T/tcb/HLHCrYeGIEpstpMQ==
+SHA1-Digest: 9aoYzamW15dGcE8KZMwDimWYm6U=
+
+Name: mega/html/ios.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: CnceAuU7al0fWiDQD/QWHQ==
+SHA1-Digest: ItKpzaUX1DqTG9llDNBdvxnd7cI=
+
+Name: mega/html/key.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KDbAyipmDtwrJCCGMRl7TQ==
+SHA1-Digest: LSbYeelUVa1C+bcYB8qD6bXRLdg=
+
+Name: mega/html/login.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: dyHjSbJiZCuBmy/wSTL4FQ==
+SHA1-Digest: EdB62a1igD3AT1exYr2G5UwdHRU=
+
+Name: mega/html/mega.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ICk0dAECnZhZr/7G6A7bBw==
+SHA1-Digest: RPI2RssYIBTAq3oCenpy7EadjvY=
+
+Name: mega/html/megabird.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4QgT8r9gOD2ge8plFciD0A==
+SHA1-Digest: 4nM5uCZObGp4VGbpuTWn3BgEtjw=
+
+Name: mega/html/megacmd.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: wfmmls21gwxPc7YWeouwUg==
+SHA1-Digest: qc6sO+Zv0sFSBsu7EK6nOGn0nN4=
+
+Name: mega/html/megainfo.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: T7PhEOjMdLovKUMQo+OYoQ==
+SHA1-Digest: NaQH9b5vqnBigINo6MZSr2wwvUM=
+
+Name: mega/html/mobile.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: WGpnKOTf4EehzT3xCTBYxg==
+SHA1-Digest: HDA1R/Wtxz3JG7d2HjfwFze0ZGQ=
+
+Name: mega/html/onboarding.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: TsjQFKvkE/L6mrXHvc/MDg==
+SHA1-Digest: N2AKJR8a6+3YOCuZqPKbHbTJKVU=
+
+Name: mega/html/pagesmenu.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: yfFSWKMz6iPppmzgOwWV2w==
+SHA1-Digest: MZTDMbajIIREOfweHc8l6USEsPI=
+
+Name: mega/html/pdfViewer.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: nhbwH+VYRKBPZXytVSYhqQ==
+SHA1-Digest: vKZq197lhI4RynJlnvFQIY4ECxM=
+
+Name: mega/html/privacy.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ypCJ+scRrAdGlbrGOGIh4g==
+SHA1-Digest: TCA4ukH8J6E7ib8g34zRl6iXn4U=
+
+Name: mega/html/privacycompany.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: W2oIi1rZSLtcy7gozKtoqQ==
+SHA1-Digest: xGfJdwl6Zn/iBvzbjaoivm1ZNzc=
+
+Name: mega/html/propay.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: BZ0EfsSb3Y0VOwagIXt8jg==
+SHA1-Digest: 0qkZwjO6SaYVfeyP0Rh2NwOMy+E=
+
+Name: mega/html/proplan.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 0kYTSoEO649Nam2pVv0sSA==
+SHA1-Digest: 9OuFqfOvDm2u4bgmgNus16XGAts=
+
+Name: mega/html/recovery.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qKlf5GzDcUAY3TH2lTDnuw==
+SHA1-Digest: /tCORU11O0HmTFrI6FjpcMJG7Xk=
+
+Name: mega/html/redeem.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: uhzPjIzx9MLnId2+/cmkRg==
+SHA1-Digest: aN0sfyz+XCilybLevKdSEDe5eds=
+
+Name: mega/html/register.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4ULBzdjgZhn51IeRVZHSMA==
+SHA1-Digest: aW+V8Av/LMcOIh1gBPgmBL/BmLA=
+
+Name: mega/html/resellers.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Ix1dZwuUiVVWFi8C72tptw==
+SHA1-Digest: omFu9w5KNiYaC3EYpW5Dv/crImI=
+
+Name: mega/html/reset.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 2kJaXS1r2FxqQJOiPZ6efA==
+SHA1-Digest: 7WX1r08lNcNmVyGtTPvoMci4c38=
+
+Name: mega/html/sdkterms.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: kRT5rIfpQaDtImwdJFy7OA==
+SHA1-Digest: uROL6vk+WlWI7w3u4DP2OeGfO7w=
+
+Name: mega/html/sourcecode.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: frN9C0xdmq/0CMv1E2sutg==
+SHA1-Digest: uiM+3mqZ0WGVKNGWGINWIMNe00w=
+
+Name: mega/html/start.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: RmTw8JIdNRrIGl3adGogeA==
+SHA1-Digest: ouvLlWxHay4qSJ12Y0J07i2UdHI=
+
+Name: mega/html/support.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sRXQi1yon5jP7nFDQXyAyw==
+SHA1-Digest: Ec7w6UGMFtY79CEAGp3MLl+I1XU=
+
+Name: mega/html/sync.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: OvLexOdWxb3Mx6rc7VW+FA==
+SHA1-Digest: y9MFpPk5HFPoEIc6go8X6cGQ2iA=
+
+Name: mega/html/takedown.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: hIYYY9Msnz9jV1RfvDChwg==
+SHA1-Digest: rBWNcAU1ySRtlfQSNI78/VxYUC0=
+
+Name: mega/html/terms.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: mwJ7AstBLh1AEg02+pklYg==
+SHA1-Digest: uTD5SYlrg9kZZm+4pU3XvfOZCZc=
+
+Name: mega/html/top-login.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: BTANf5fu4yp+xhVMMdIuAQ==
+SHA1-Digest: lMdbrBbm0qkinTozaQ9qsVdkFc0=
+
+Name: mega/html/top-mobile.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: YJOnvF4fgj35Ubysy1CMUg==
+SHA1-Digest: qU30nLP2TTDh41LaErbRloAD+zA=
+
+Name: mega/html/top.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 6j8kTIlQ5693XP9kCw++Hg==
+SHA1-Digest: bMmYsU2ZLLALDWL5Q1zac4ao3X0=
+
+Name: mega/html/transferwidget.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: yxcSH3pP/gQe8TLCsrPHmA==
+SHA1-Digest: Rb9BitaSZex8cbS9gs+vVFw08o8=
+
+Name: mega/html/wp.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: TOjypzYiBV18AxBGrEeBYg==
+SHA1-Digest: qh4l5nl8T3MYTFO+sm8nY+WTpD4=
+
+Name: mega/html/js/backup.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: xgEoNuKxcclKVM4XE0j3NQ==
+SHA1-Digest: mNxNrzGfh/u/Iafqzi3dxPAdn30=
+
+Name: mega/html/js/blog.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: xS0przMMchF/ZUETm6SArg==
+SHA1-Digest: LDbfyhbV1lL1X6nR3Hc3ZfVM2WM=
+
+Name: mega/html/js/blogarticle.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1JA1NRWVlsC5JD8wM9YmHA==
+SHA1-Digest: MYvgXHBnlExIHcETFaf3hF27f6k=
+
+Name: mega/html/js/bottompage.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ufw3qp9pGneK3Sa3BpEDDg==
+SHA1-Digest: /NTnP5PRR3Qo3pu10Y6UlrDXYrw=
+
+Name: mega/html/js/browsers.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: pxiMWhQS4Ccz6k5hn1pbFA==
+SHA1-Digest: +P1oGHQMjyeMunR3fm4/1uxnWZs=
+
+Name: mega/html/js/cancel.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: maWIG2+O8o2FcrcHFs4twQ==
+SHA1-Digest: 8tPT4M7H7J/cUAYsrsiLCcNO/v0=
+
+Name: mega/html/js/copyrightnotice.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: M5iynwPXc07EdQrWUuEZkA==
+SHA1-Digest: sho8LXc0OfewqPfjHxcifcGwRb0=
+
+Name: mega/html/js/dev.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: CMFy9G1plUm0d20C2//JEw==
+SHA1-Digest: W9YOAazvqHUPylvK05MPecB3cvE=
+
+Name: mega/html/js/disputenotice.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 0pU9tuyPrN+GNXdu/16eJw==
+SHA1-Digest: iLlppae5OA6kH9RtVQBsw0z43cQ=
+
+Name: mega/html/js/download.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: j1BgavET5lqdScRxeImtCA==
+SHA1-Digest: Z/9zgvzautkc3xCJ7hVaBQGYDZ4=
+
+Name: mega/html/js/emailchange.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /qSEJCkfRl6sUhS6Ie3Psg==
+SHA1-Digest: N2qDhwSCOgC+LREu5rZ1/MAWk6Y=
+
+Name: mega/html/js/help2.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: rYrTQKOy9wNvuyDzHAyUAQ==
+SHA1-Digest: JyddROpuwHOubcj18IRojbW2GXA=
+
+Name: mega/html/js/key.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: q9ckDPANovH3JMIDrwkPLQ==
+SHA1-Digest: yy3CwaoIo2/ufF5YG087xD+cYKo=
+
+Name: mega/html/js/login.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: taM1QKhXs3GBQk+3aUNNcw==
+SHA1-Digest: hAk0+7qg9STtmWQhj2MIkxEd8SU=
+
+Name: mega/html/js/megacmd.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: tkGbtx13Rt56unlrK+ImUg==
+SHA1-Digest: N8Yq1h3Q+B/XcG/r/reaFsjVtFM=
+
+Name: mega/html/js/megasync.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: bYI7vGCNz1f0oRAbnmlRfA==
+SHA1-Digest: kElWCSt8J4TzStNFwqUuDEgcitc=
+
+Name: mega/html/js/pro.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: GJhviYB+/F+dVE61ikhRHA==
+SHA1-Digest: 5+oQUjzWc6vcLLYKeVQXwz+FXOs=
+
+Name: mega/html/js/propay-dialogs.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: IpZqQGvyx34hr8oaeRJOvg==
+SHA1-Digest: SWluRdFnv2R97qYUrVty6XmTRIU=
+
+Name: mega/html/js/propay.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: RWoW3sqZmQWcVI3AO4S0PQ==
+SHA1-Digest: dnN9yDSGlZAAc7azYv3s6A+iY30=
+
+Name: mega/html/js/proplan.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: dcm+crYcDXK2WdDkdNoZjw==
+SHA1-Digest: vin8tekZQ30OS/iyBw19k0xyrao=
+
+Name: mega/html/js/recovery.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7DC3HqpkHYjhVgakji0FJQ==
+SHA1-Digest: gNluQRxeT9vNGXcqlUcHw7OwjuQ=
+
+Name: mega/html/js/redeem.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4F9xz0rsKjZSpmMjZKbB0w==
+SHA1-Digest: tVeJp0kGmfoNoh1Bu8Haiffra7g=
+
+Name: mega/html/js/register.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: MFA2eeRGDtgKBqC8W/zyQA==
+SHA1-Digest: waGwrI1xjDaF8l8CTwJ0c/5mZS0=
+
+Name: mega/html/js/reset.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: R3Z7GYPIjP4cvuNzPKvE7g==
+SHA1-Digest: KXCPXgY/CkQRdVIoh1osqGB6X9A=
+
+Name: mega/html/js/start.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 9UVvnJ6A+Gk/BsUvmRq9ng==
+SHA1-Digest: CXsrB2TIr1eoWxB2zLqG1FcDqlU=
+
+Name: mega/html/js/support.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: H3UC2pc57JdzSxZw0qU8dQ==
+SHA1-Digest: zqGh4bChd6dmg1kSJOKPfyvA7bA=
+
+Name: mega/html/js/sync.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: FIHYsZfFr3FERF/dGWDEhg==
+SHA1-Digest: xoaJMcqaQb5wvHpQtm/V8/UnF/U=
+
+Name: mega/images/mega/loading-sprite_v4.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 0qrp8gLAPkbGbYMZIDu0gA==
+SHA1-Digest: JCrD7LDBoK8OgEnhv6uRmhEPTno=
+
+Name: mega/images/mega/loading-sprite_v4@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: QNQUNfcgYYC7XYzTwFtp9A==
+SHA1-Digest: AF0HCeWc45MsXNYNNAJm8F4e9jc=
+
+Name: mega/images/mega/new-startpage-sprite_v5.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ecR/4IWb2lRYxT4LO7p5HQ==
+SHA1-Digest: EzXP1Tkogo0EysxelztCg1ZGVNo=
+
+Name: mega/images/mega/new-startpage-sprite_v5@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: udVKYsN4V8Vgne4HaA0DcA==
+SHA1-Digest: TvfJKAftHsk9V52PBbIPsdnHgeE=
+
+Name: mega/js/account.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: kZA6MIh1ohHkJ2IZP8S3BQ==
+SHA1-Digest: vgvu0Qdr5x5ctR5ArtYzA0rVqMg=
+
+Name: mega/js/appActivityHandler.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: oZwsPYUGjf0l28lRn3o1Gg==
+SHA1-Digest: 7+fckR7aJeFIB20J93y+/H5p0SY=
+
+Name: mega/js/attr.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: SBJuH2BN7bZ9FBZhu+rVug==
+SHA1-Digest: jqgOQcSbbep8n9/97QqiWVXkXlQ=
+
+Name: mega/js/authring.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 9j5g0m+dV7jJA3JzUr0q/A==
+SHA1-Digest: umJkWl7Q/ftK0EP8Ee18929HKJs=
+
+Name: mega/js/cms.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Oj1H6emGfgmb9qxcdDToFg==
+SHA1-Digest: r5Giawp/Xs8NGdYYK0GfUUFrUlA=
+
+Name: mega/js/cmsSnapshot.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: I/zLEEWMVSNxHNzoOr1Xtw==
+SHA1-Digest: lasc3vPj3vs0B3qLDQ+K6R7ngVU=
+
+Name: mega/js/connectionRetryManager.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: OcjDdC3WNIYbCUTWgRaYRw==
+SHA1-Digest: YIkzbIP0HqMSzlUEYtxmwlzs8dc=
+
+Name: mega/js/crypto.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: r4GfR66oBEyEwz7jjmB+nQ==
+SHA1-Digest: vLql+b7XpJxzUIWTv2bJEBBpkDA=
+
+Name: mega/js/datastructs.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 0rnDFOzCrQrvC+8Dit9lQQ==
+SHA1-Digest: a+usq8SBJav1yh/dYbo+yTvWomc=
+
+Name: mega/js/filedrag.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: rBEpGWfN2Pgl628Xpw6PqA==
+SHA1-Digest: 89R82v/+1qxJY3+7aWgj01jBrFU=
+
+Name: mega/js/filetypes.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: SPRZLpHQau29OMm11uWLtg==
+SHA1-Digest: LW4JAIaZkY4/ap3ty4aiRt/EdWU=
+
+Name: mega/js/fm.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /v6ukffuyyrOMb75WNibhw==
+SHA1-Digest: 6Oxwh2sE8RIY/PDP0tL92fxgbng=
+
+Name: mega/js/functions.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4Xo1hlZoJdGDhoZeFJPaFg==
+SHA1-Digest: Tq1uN1KNH+SSwwEgKcyFzSbEDXw=
+
+Name: mega/js/gContacts.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: AOQLYNYG3K4+nAa5nLj3pQ==
+SHA1-Digest: yPQ06ZmhQqn9VmSsJK7SfvtcETs=
+
+Name: mega/js/idbkvstorage.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: tHkJVpprqTbpNstENQ8RWQ==
+SHA1-Digest: poQ6weL74+PmQd061kX/7NDLdTA=
+
+Name: mega/js/jquery.checkboxes.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7+hS8saQHBaNuKZrKPEIXw==
+SHA1-Digest: 5SmcaR8pJpVt1SM7iwAXBWxMwl4=
+
+Name: mega/js/jquery.misc.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: tZaxheZ3ZXO9zKM+c2QdxQ==
+SHA1-Digest: t2l+SzIKMJuXAQbQwdSHk7l4cfg=
+
+Name: mega/js/jquery.protect.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: avZ33AoDOJ7koKPee30oZA==
+SHA1-Digest: CXKmncpJ+iHSRfPZ3If4dGVo9oo=
+
+Name: mega/js/jquery.tokeninput.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: oOPTp26mdqU54GjNITRgsQ==
+SHA1-Digest: CtLZ7OyNF2RLyxmmcwdzjHzUciE=
+
+Name: mega/js/jscrollpane.utils.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: dAugVqVQwBmhmB+DAXCBYw==
+SHA1-Digest: tA8c40MXD/4QuArReQ1adUHJAbU=
+
+Name: mega/js/keepAlive.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: S1+n15S80uYd/m9MntFDNQ==
+SHA1-Digest: +9lGUxehrTppmQeIo9wwje60zWQ=
+
+Name: mega/js/mDB.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ZgTu2Q7sV5Io6Lvy9AbPug==
+SHA1-Digest: Shc+TY2Kg1subBDQz8KjQOfdUbQ=
+
+Name: mega/js/mega.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: tT2zASaTUab3dYvrljdsEg==
+SHA1-Digest: XfRCP3VxWrIlCINLZC/CsCQHLwU=
+
+Name: mega/js/megaNotifications.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: a+X0OzJD+HUxGASc40vHXA==
+SHA1-Digest: 7O+gkDXXeNkbhTp6fT+i+NHmKRQ=
+
+Name: mega/js/megaPromise.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: SElu0aYuESltg2IY4z/9dg==
+SHA1-Digest: yskcO6j6H9MievxOpkCDC2/SkiE=
+
+Name: mega/js/mouse.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: WolBWyzDA5/G/QNcU1gUXg==
+SHA1-Digest: yi2Wbe2w+3XVBo+amrV4cGUgc/E=
+
+Name: mega/js/network-testing.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: PVnSG8/TWaYoUcEnaWCzkw==
+SHA1-Digest: c+Vb52qF3yLsgRYaRegjjWRiBEs=
+
+Name: mega/js/notify.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Utzk2QF/E6depete0PP8vw==
+SHA1-Digest: HWd0TiBYkue0EhqsPT6sD8BELcs=
+
+Name: mega/js/paycrypt.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: AXXHLBdxSWcEpES/c0AmiA==
+SHA1-Digest: uirIY+dcKdouNhs2ucV09gT5t9M=
+
+Name: mega/js/popunda.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Ndc1gxAdwSUPxhzRl44YQQ==
+SHA1-Digest: GRayQt1y3RaNxG2JWusvvFyqIfY=
+
+Name: mega/js/sharedlocalkvstorage.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: dTU2Mhzt+haNmZwz8iSHqQ==
+SHA1-Digest: CPSsqQ8gha2e20ujxMOZBz1KJK4=
+
+Name: mega/js/states-countries.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: oeRVagFQ1oXRT2bUOxNOmw==
+SHA1-Digest: arPSIDMq7/rJMRGu2YXsq5DvlE0=
+
+Name: mega/js/thumbnail.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 33QCSt6j4Q3dMpO0nJl9fQ==
+SHA1-Digest: EIZkONFLqRtlpwBgQlMULs9h+5E=
+
+Name: mega/js/tlvstore.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: kDbUHS76ni/huywH97u7ng==
+SHA1-Digest: Q9rzzrj8A7DdD6KNaD8f9rts93E=
+
+Name: mega/js/useravatar.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: eSYzKtia5U1vz1eRoPoKXw==
+SHA1-Digest: Biva+N4C/pJrZNHtJ6gfrPWrOlQ=
+
+Name: mega/js/chat/bundle.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: UkhQvMbdssuVU/XhBE+9ww==
+SHA1-Digest: XwuUIVqlTn+zC9QhZU+IAuedhAo=
+
+Name: mega/js/chat/chatd.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: cQ52R4Iik2xy2veGjghSlA==
+SHA1-Digest: tT2IGK5iQpk1XR05J19rGVRROMA=
+
+Name: mega/js/chat/messages.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: vz6JJZRnHeREmaFHYmihsQ==
+SHA1-Digest: IHf3us3fmzWjLua8UTfZfv5J9gU=
+
+Name: mega/js/chat/presence2.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: XBJDnLMs467NltoIad4UQg==
+SHA1-Digest: oB4OzCVggZpaDxDT1YgBd7b4pck=
+
+Name: mega/js/chat/rtcStats.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: OkocASQ/sVWY73aEywsvSw==
+SHA1-Digest: M7A7tn946C8vygL3DUhZuHWL9QY=
+
+Name: mega/js/chat/strongvelope.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: SkZG+Q5aJCU5WpYUgPIZLg==
+SHA1-Digest: S1ChF3QIX5lfe/xtuNfAdvuXbEA=
+
+Name: mega/js/chat/webrtc.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Qji5zn3Z2LQaG+5uhDJBOA==
+SHA1-Digest: HpuPdcyRDLdet/O8HWM1/03KuY8=
+
+Name: mega/js/chat/webrtcAdapter.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: XR5d2C4qMkICyfXU4of7FA==
+SHA1-Digest: Gxp5G2WydlfnPpG8D+0r5v+aiNQ=
+
+Name: mega/js/chat/webrtcImpl.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: wyUDRX53h/wD6G9QMVZVFg==
+SHA1-Digest: itUyr+bcwhTuqi0H1HxMTez7BtI=
+
+Name: mega/js/chat/webrtcSdp.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: m39IGXXpZmcO6SAeB2lfqw==
+SHA1-Digest: GNXQ7sur27Ktxcnsn8xANCzoctw=
+
+Name: mega/js/chat/plugins/callFeedback.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: DO+AXbcKomAPYyUNSYXF7w==
+SHA1-Digest: my6uOjVSbW6ssolRhY40q7s6hj0=
+
+Name: mega/js/chat/plugins/callManager.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 5XBjTIBHdRHR1alfFXQRdg==
+SHA1-Digest: wxg9HxkXJ2AFARCujqnSeXcX3Do=
+
+Name: mega/js/chat/plugins/chatdIntegration.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: E9WOBHYAxCe0/xFr7QGZiQ==
+SHA1-Digest: 7DBDZPbedyTR2RiK0oWqOHFoiV0=
+
+Name: mega/js/chat/plugins/chatNotifications.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 6Yw69W6LkrOIjpltdUZHkQ==
+SHA1-Digest: NfU5ghCOrmy9om9RMkHx80YB9ws=
+
+Name: mega/js/chat/plugins/chatStats.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: xRygRD/rMjM0sZrqTqhSAQ==
+SHA1-Digest: O1AJIaLnOu9Ut/0gBSlats3viOY=
+
+Name: mega/js/chat/plugins/emoticonsFilter.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: cM71q+2KJ2uWIxVBa/TL9g==
+SHA1-Digest: V3WdNhZeaeBnL5dv4Ogq7EiW/Ig=
+
+Name: mega/js/chat/plugins/emoticonShortcutsFilter.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: IAhNwXn8VYnB49fLGH9e5w==
+SHA1-Digest: 96O327UrAm0yL30UmJHyp0AFgz4=
+
+Name: mega/js/chat/plugins/persistedTypeArea.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: whgOIpxgEO3Xg5LAXS9lhQ==
+SHA1-Digest: zQqv3WAXvTyGeUNNDBT0tYy3yvQ=
+
+Name: mega/js/chat/plugins/presencedIntegration.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: MEhP5uiD99m6ZuNCb/J2Jw==
+SHA1-Digest: rrlQmBlzRFvRh6YbqwfJGcraesY=
+
+Name: mega/js/chat/plugins/rtfFilter.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 0G2j1heTjhgPOfnv3xZ6eg==
+SHA1-Digest: s6tlpu6d3giBTdK5q6X4FbewB20=
+
+Name: mega/js/chat/plugins/urlFilter.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: JdFYILACJx6AF6HPPy9Rbg==
+SHA1-Digest: jhadeS7QWVZcxfe1LvAH3exxwGY=
+
+Name: mega/js/chat/ui/incomingCallDialog.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 5PVfRLEbgIUHkIqsAx87ww==
+SHA1-Digest: NRYEc77jNvrB3mky2WTmlwthPwE=
+
+Name: mega/js/fm/account.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KUDmtT+HY3CkPHuitoHl/g==
+SHA1-Digest: TGSXn+TU9ai4wJfrpWYq7lZusdY=
+
+Name: mega/js/fm/achievements.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: otPw8RoVCaX7tLcxGT/HeA==
+SHA1-Digest: fwECZhlgLMkkYmk1tyg4WaYI8TM=
+
+Name: mega/js/fm/dashboard.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: HN9q4XCrGzG9FOlXckyrpA==
+SHA1-Digest: 1ZpW3Sa3GmVmzVhPa/EbP8VJ4GQ=
+
+Name: mega/js/fm/dialogs.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: m/UVqCqe0tzCXorjJUIrmg==
+SHA1-Digest: IUnGBPFWi6JluRHO4+Jw1uH2u3g=
+
+Name: mega/js/fm/fileconflict.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: CZtieUHCJuzlePxwhZvU2g==
+SHA1-Digest: VrsmEZHokSyorzWGPxGhlSvOptA=
+
+Name: mega/js/fm/filemanager.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7pWz4L2hnm37kNIeYD9m1w==
+SHA1-Digest: AkrJOlZUvUgW0xcfbA4P4I5VqXU=
+
+Name: mega/js/fm/fileversioning.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: JhMesiNSKTlDC/vyExLz6w==
+SHA1-Digest: /vWxKyTMVRjIJzzsQrT8F+396j4=
+
+Name: mega/js/fm/megadata.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Un4hAd/p4pMpcp9KeOP9Hw==
+SHA1-Digest: PuSsZZ3wWkGETWdsEWBBiSLIFRA=
+
+Name: mega/js/fm/properties.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: cXaKr6Dr2TlYsmnRpZDYWw==
+SHA1-Digest: i9iEKzCfZUQjcRkCWdUhGb4NG9A=
+
+Name: mega/js/fm/quickfinder.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: HXdNxcW1gUSVspxna+tKng==
+SHA1-Digest: 30yBisvyCryAr9wib8PMxO1HQFU=
+
+Name: mega/js/fm/removenode.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: EnoQfggpNFL/uk8+brvtZA==
+SHA1-Digest: XdSfU+md0DDNncVZKzFoWBNJhKU=
+
+Name: mega/js/fm/selectionmanager.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Hf6hEUYHYju8Nk+GnpF04A==
+SHA1-Digest: GZrLRanAJ9ooeYgGAgxp1v4z458=
+
+Name: mega/js/fm/ufssizecache.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: NhQ/JaGywacp4B22ag9jNQ==
+SHA1-Digest: +D+G4tZucl0qYjwV5KlWcB7AeSY=
+
+Name: mega/js/fm/utils.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: vToThe6Bg9zvUt8H6kxEjw==
+SHA1-Digest: RNQFBwdCxYWFTXWIHoJKyRCw9zE=
+
+Name: mega/js/fm/megadata/account.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ZS6Na7do/S2putp+Nx0xew==
+SHA1-Digest: 67bi81yY4gmzC5aY+2zRghNZn5I=
+
+Name: mega/js/fm/megadata/avatars.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: DVsKW3iOiFSTsltIjBlTTA==
+SHA1-Digest: 2Y3D307GHCbABmgOjvxP/Dj7Lew=
+
+Name: mega/js/fm/megadata/contacts.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: cCJkQM6HsxumySF+GtboTw==
+SHA1-Digest: DDsGAFQLczvpa1yH/MwIFYYYKzQ=
+
+Name: mega/js/fm/megadata/filters.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: r+Bw5YqkS/eEbzDMdR8AXQ==
+SHA1-Digest: VXJolrFL6YrOgzRzCcqSMml1MwE=
+
+Name: mega/js/fm/megadata/inbox.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: H9DmQOE07m5NNoP0QXfkKA==
+SHA1-Digest: NS6RXf28z/LF6ZN5WfLnsX+ekFs=
+
+Name: mega/js/fm/megadata/menus.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: kO9SDjyDsO5pYEy89qSl8g==
+SHA1-Digest: QLKhLPbAE9zTolnzomCGbE3TdNM=
+
+Name: mega/js/fm/megadata/nodes.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: BLSZe+0xUqaO5H8aSlGZcw==
+SHA1-Digest: 9GXYqlPdh1+YNMaxckI/IfBz3uM=
+
+Name: mega/js/fm/megadata/openfolder.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4hwarxY3EjRjO/WfrRfYJQ==
+SHA1-Digest: 2UbuSSRhUVlLDWcJVhvFBr9uHhg=
+
+Name: mega/js/fm/megadata/render.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: lfzGVqvDzsFfQQw/n0h3oQ==
+SHA1-Digest: 8bPHAA92qzmYphEfdg+NJoDFUDQ=
+
+Name: mega/js/fm/megadata/reset.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: gxx29Cncur37VSMpGibHqw==
+SHA1-Digest: jAgv6fB0egxEC5S2j8z9uWU9cqQ=
+
+Name: mega/js/fm/megadata/sort.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qc0xfNyTP/yU8YfhMGHLEg==
+SHA1-Digest: RN3qKDfMMgNYXKRuKd83bPQG+94=
+
+Name: mega/js/fm/megadata/transfers.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: YdKNtTXZjvnm4dxo9XSWPg==
+SHA1-Digest: nqrc/IMxHlCUKT9gS6F5TJ9wvEs=
+
+Name: mega/js/fm/megadata/tree.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jxe+zRL8JeDoVGM2cSPeBg==
+SHA1-Digest: sFG0qzplgR54dmOb4BGac3OhGd8=
+
+Name: mega/js/mobile/mobile.account.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: G/Tv7OEQlUimooiwM4W9wg==
+SHA1-Digest: ETKb5730mbxPI0XeddUiB/glcJA=
+
+Name: mega/js/mobile/mobile.achieve.how-it-works.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: VSrnghHDXSgPR+2INqD11w==
+SHA1-Digest: V0A7tY0WnlVsVkjhYTJdZ3MWRRQ=
+
+Name: mega/js/mobile/mobile.achieve.invites.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 3rkVVK1+IlFCA7gc5Rnrfw==
+SHA1-Digest: fDwtupHx4+Px90nLFHJe3p7OI18=
+
+Name: mega/js/mobile/mobile.achieve.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Urn76KTkaANJouQ91F1XFQ==
+SHA1-Digest: 1d8JooNcBsBtNFV1Go5XlD/h/No=
+
+Name: mega/js/mobile/mobile.achieve.referrals.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: hgQ97CJaYnb2N6uClx3KCw==
+SHA1-Digest: 21c0yeoC0as5ikon6+isWxJauqE=
+
+Name: mega/js/mobile/mobile.cloud.context-menu.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 2m3SWdtcaRaf5as5LBai6w==
+SHA1-Digest: 11vVmeDY7iFJuyL5Ckebu7ncMkg=
+
+Name: mega/js/mobile/mobile.cloud.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: iLYeOhf5yE9kfSq6Ys1Gsg==
+SHA1-Digest: 0ohFJlAtbKXk4swPqjAaAa+PHjk=
+
+Name: mega/js/mobile/mobile.decryption-key-overlay.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: fnE9bM/iQ1UGhUiDhZ51vQ==
+SHA1-Digest: mF3oWBdbgY4B/ANpg9zCbJJamrU=
+
+Name: mega/js/mobile/mobile.decryption-password-overlay.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Wz0AZ8fQRfi14jvXmbKhIQ==
+SHA1-Digest: Nterhz58sQRH3KqhTGLU2gCXqJ4=
+
+Name: mega/js/mobile/mobile.delete-overlay.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: s2CjsbApef/akMzt9oooww==
+SHA1-Digest: tSAcAjYJCo0X7GtmSm2ETiRYzEw=
+
+Name: mega/js/mobile/mobile.download-overlay.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: uPv1QjBcp3/PUlDYfgR60Q==
+SHA1-Digest: JYelFyBZzmpxq9ArvZNkAqpmq74=
+
+Name: mega/js/mobile/mobile.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: YerDarXTwxI8gcZpiZsx6g==
+SHA1-Digest: QcBEAJodZFxybglUBxjlLKq3D3E=
+
+Name: mega/js/mobile/mobile.language-menu.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Yj/ih1/C7lzGwlON2zSaLA==
+SHA1-Digest: uPk5mvbWgxnZwfEWAjcL1tNlMQQ=
+
+Name: mega/js/mobile/mobile.link-overlay.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: uRONwBqQf+nDc59/2Cuq3w==
+SHA1-Digest: V6SGt863wqvlpIDt5B6QBy94BPs=
+
+Name: mega/js/mobile/mobile.message-overlay.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 3cYvwg6EgHEcJ5OA68kkeg==
+SHA1-Digest: R0sJ3XOVinaA2PDWfOtvldEAdMk=
+
+Name: mega/js/mobile/mobile.not-found-overlay.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: uITxSJMlZ3hMQh10SxgxdA==
+SHA1-Digest: OVHggVl+3lzV1s28YbXbNcGOqS8=
+
+Name: mega/js/mobile/mobile.pro-signup-prompt.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: uCEMStHsKwtJUX8bfDlxuw==
+SHA1-Digest: hzO/eDIsvsP4/gI8oJGqWOs0PhU=
+
+Name: mega/js/mobile/mobile.propay.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 5M6xw3Dc8WY9OhkfYq/2Jg==
+SHA1-Digest: GYiqqPNyzBwhX06V1mGIIiPT7ho=
+
+Name: mega/js/mobile/mobile.register.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: A28lq9N1xmjkyVMxIWz5AQ==
+SHA1-Digest: rbkhyKZhECPLMtZyQaHzR6qnHoA=
+
+Name: mega/js/mobile/mobile.signin.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Wc/kRQ/MaEkhciiKdElULg==
+SHA1-Digest: /mT5PpFqJ3ClqMV2uOlI/Us7z/4=
+
+Name: mega/js/mobile/mobile.slideshow.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: F2QZTeX3/ynAPvy52hRnDQ==
+SHA1-Digest: gQ/2d99wCOQTRb+ElCkn9V2hbIU=
+
+Name: mega/js/mobile/mobile.terms.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /oBmePHbc5U+kDHYjaarzA==
+SHA1-Digest: 1/HRW4O8cG9kVXGoGX8/FXqLTts=
+
+Name: mega/js/mobile/mobile.upload.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: eI9kXRQCbE22ZVBm+LSc8w==
+SHA1-Digest: qMrOhcteTrm1XoJ6or2ENBrPIYM=
+
+Name: mega/js/transfers/download2.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: F3K3hxcrTSKVcXwgpMIOcA==
+SHA1-Digest: GUTnwXurbr4rw4DVrHult/mBvng=
+
+Name: mega/js/transfers/downloader.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: NqSfwzxUESo3eq6dUtuwkQ==
+SHA1-Digest: nEeTZoLHJ35D0Y0T1FlqMdPbxYI=
+
+Name: mega/js/transfers/queue.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: BUo/AHSfzzMv+OZG1qSutQ==
+SHA1-Digest: KQjEGIbddBrJIo1MeT3pForsTMw=
+
+Name: mega/js/transfers/upload2.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: uLm90o4EGsEFAE1fkWWUZA==
+SHA1-Digest: CALB8SVIyh54XyakOlxlHJw0fvc=
+
+Name: mega/js/transfers/utils.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: FgfMBbu69xy6sn1bV9+UxQ==
+SHA1-Digest: f0/CPkhXh35oUP3+eBkEI54K+sY=
+
+Name: mega/js/transfers/xhr2.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: dD6gqpIZjuo5CPoZQ0PfcA==
+SHA1-Digest: uURUvP43DACQoJNsRRJDy00OcRA=
+
+Name: mega/js/transfers/zip64.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KDxpVrbXtwwJTjjmu9kBeg==
+SHA1-Digest: QIBw4NZBn2dDFIBdwUl+lzs9FBM=
+
+Name: mega/js/transfers/meths/cache.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ZAEay5qbf7pqru3h/YJXgQ==
+SHA1-Digest: CKwEWfrQh983NUvPpJWBUitSCA4=
+
+Name: mega/js/transfers/meths/filesystem.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KMoospggEpeN9b2i+KAmEw==
+SHA1-Digest: j5/2yCM/+JW86Pu6GMM5Sal1eyM=
+
+Name: mega/js/transfers/meths/firefox-extension.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: BLW6D+mTBgFxh49gtMQgcw==
+SHA1-Digest: 4TdsfqcSWxsDRKYz6Rrhrpow4Ow=
+
+Name: mega/js/transfers/meths/flash.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 6eLqBHTrAvojzQIYUwDsAQ==
+SHA1-Digest: CwPPT74Zi+WVz6ojt+eqGXABOQs=
+
+Name: mega/js/transfers/meths/mediasource.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: LyqjFX8nVmDlnIB81qh9Pg==
+SHA1-Digest: bfr8WN/GRKU6ctIoIasGq6Z/4ug=
+
+Name: mega/js/transfers/meths/memory.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: MhvMBGXXssucwfoRpMSRaw==
+SHA1-Digest: TBudPI84fW5KQyUhvr4ys155ZGo=
+
+Name: mega/js/ui/alarm.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: O0T0NShAj5Ia/mFFksGU/A==
+SHA1-Digest: hBLisFfW/ci/piG57kx1H++WQBk=
+
+Name: mega/js/ui/credentialsWarningDialog.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: FpJ0iGzIMFovTdply05FkA==
+SHA1-Digest: HlD6O59U0XlW0VTmc5JICMVGo+8=
+
+Name: mega/js/ui/dialog.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 9qKePAexCY26xsZMfgwQjA==
+SHA1-Digest: 4gPcI9gkXOqzI3FlzEua06ZWKig=
+
+Name: mega/js/ui/export.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: k4IY1ohuc1qAcPW72+hdOA==
+SHA1-Digest: YngvKvE3JHwQjnEwUkWx8gathVY=
+
+Name: mega/js/ui/feedbackDialog.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: W3KsMkij/IQbMte0DTB4dg==
+SHA1-Digest: 2K5/oaw5HPM5NPChrDdwwiaZNbw=
+
+Name: mega/js/ui/imagesViewer.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: fIy9rP4E3go+46rABnEIFQ==
+SHA1-Digest: Thh7hsyiRtpeMD3RTbwSaWAjPKE=
+
+Name: mega/js/ui/keySignatureWarningDialog.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: JgIMnhOnKd8gfwdRcW4nkg==
+SHA1-Digest: JIsPNdvA24Vl4eGg1JE1NkKIYmI=
+
+Name: mega/js/ui/languageDialog.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 8P6SwNqDRt2+V3SXHugBGA==
+SHA1-Digest: tTd9xLZer4aVr4G0x9C+g7tE/J8=
+
+Name: mega/js/ui/loginRequiredDialog.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: f62rDbc54CoYxQAH3sNnDQ==
+SHA1-Digest: naVL+qd5PikjgGY8XUf2au+X7U8=
+
+Name: mega/js/ui/megaRender.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 3cP9itnWgJc8RoiY+YetAg==
+SHA1-Digest: 1lyY4U1SZhVMpO+cG2kelFJXarE=
+
+Name: mega/js/ui/miniui.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: JdBS7Ht5FC8dh1JyjBsc4g==
+SHA1-Digest: fqyQS6MTtGdR7LiFIj47Q+lDqOA=
+
+Name: mega/js/ui/onboarding.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Aj5KDHuMciruwpBQqPJn+Q==
+SHA1-Digest: 6Zgsk/6F/2FmFiPYaGiCXztSCj0=
+
+Name: mega/js/ui/passwordReminderDialog.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: izyBEdQt+1V/y5QuYT31Pw==
+SHA1-Digest: nYWenemVepYxpibkDBpd3RySNlQ=
+
+Name: mega/js/ui/publicServiceAnnouncement.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 3hXtDD6hiTiAU1iXeBqejw==
+SHA1-Digest: ox19o2nYnsylYZ6FBdnC76T937k=
+
+Name: mega/js/ui/registerDialog.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Bh5EHAibQGByZxOFE8BnbQ==
+SHA1-Digest: X3kslF4hHWt6sfav8dH8l6k/XK0=
+
+Name: mega/js/ui/toast.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 93xi4HfMjiqbh1G+lR8ukQ==
+SHA1-Digest: RHJn3QC8/dgNjZxsMFmGCPqkL+k=
+
+Name: mega/js/ui/transfers-popup.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: YJtTQgjO0YnV8lMCLgYS+A==
+SHA1-Digest: r2itsSQ+27PB5LqhdGinrf962v8=
+
+Name: mega/js/utils/browser.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: YoqO0SItUxbrDIcXQskI0w==
+SHA1-Digest: GtPbV9nV4LEBw5frVzy7MgwsVm8=
+
+Name: mega/js/utils/conv.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: UuMoM/gAxmubjD7t2EebVA==
+SHA1-Digest: 19ZNVSogI+SHbi8qycVSqJPU7L4=
+
+Name: mega/js/utils/debug.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: m2UqDRL+Jz4fB9LUlwM0mw==
+SHA1-Digest: drP9Jyene6KSPx/jPO0hMy+gpsU=
+
+Name: mega/js/utils/dom.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /v5qwGlAqmlXuLawKwF+YQ==
+SHA1-Digest: /DpPsIXunzLRQujUt7K0U5v6L0A=
+
+Name: mega/js/utils/locale.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: i4X06O2pErJD0GSC6Bl6sw==
+SHA1-Digest: lu8BT10FD60e7ayGb1g8NnU81A4=
+
+Name: mega/js/utils/pictools.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: c0PlZijYvDXBbK2HQMvnpw==
+SHA1-Digest: QGK/WGvkszfTtBTgNzfAIdp1MSQ=
+
+Name: mega/js/utils/polyfills.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 60JZt+NDP47h0hBYej9zsw==
+SHA1-Digest: IMl5BtitQXvRax3xDxlmmZb5DcI=
+
+Name: mega/js/utils/stringcrypt.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Sy74z/aiOmjE7oVWp04+uw==
+SHA1-Digest: NHPG98xB+YT3f5mfCNh/8dXG1wI=
+
+Name: mega/js/utils/timers.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: eJ2QGQjHakN88Av2z6Vh2Q==
+SHA1-Digest: u2yWT/wLgC0mTHjz5b0TnnpElU4=
+
+Name: mega/js/utils/watchdog.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: j7BtCm9Bu4lpfRYi/kgEjw==
+SHA1-Digest: pOW22J4oeHEzyzNmJq2mnHBO3ag=
+
+Name: mega/js/utils/workers.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: QZBW7b8V2tJ1/rFQ07Phdg==
+SHA1-Digest: CXhWsDl+tvtt1+QGIzf85nzY3Ms=
+
+Name: mega/js/vendor/asmcrypto.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: BXhSFz6ViBDx3g6K28nUYg==
+SHA1-Digest: vQXlEkSWZhWp3CsBGffoz6ZPIrU=
+
+Name: mega/js/vendor/autolinker.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: F2S6y6gOfbedw6jgbhlS/A==
+SHA1-Digest: nrDl87hqacFCfvIe08drA36oFNo=
+
+Name: mega/js/vendor/avatar.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 2O1jB8YDsZ+0pPk0zMzIDQ==
+SHA1-Digest: cbe5zW9LL9riTYuqZWpo3T2x4lw=
+
+Name: mega/js/vendor/dcraw.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: J4au87QLWXvDxHLuhrTwOw==
+SHA1-Digest: EBqShahUg+oE1vvvXovuC+hK1Tw=
+
+Name: mega/js/vendor/dexie.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: rFiqnn6VQwD+RMp8n6Rs3A==
+SHA1-Digest: /2T5jV1eqtXhttY7ihDn4MTbepU=
+
+Name: mega/js/vendor/elasticlunr.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 0/QhAIdC+0WoTwRY+wIklg==
+SHA1-Digest: KPxYBJQ6G3DTFiYdkOtp/8VMJKk=
+
+Name: mega/js/vendor/exif.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: HNNnpJdwsV5uPpvEikY+/w==
+SHA1-Digest: cJS704YSBsF6bqxVrRHhWrB5DDo=
+
+Name: mega/js/vendor/favico.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 08sHjuk6cEtn5LsLzpIZ+Q==
+SHA1-Digest: 90hhhKHSS97vzUmP0qNuTVQvCno=
+
+Name: mega/js/vendor/filesaver.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: RLHr4NiI5VVy6rhF1mbYPg==
+SHA1-Digest: gkvQZlwQcL+0u0+qFmEBQLU38/k=
+
+Name: mega/js/vendor/int64.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: vaSs5jdkq1UVvR/2N5cyFg==
+SHA1-Digest: 1/Nyn70+nA6MDDEohtt5TAzji7E=
+
+Name: mega/js/vendor/ion.sound.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: klJxTT1xRWJQlPu3I0vqFA==
+SHA1-Digest: ufqL8ZrGCbjBofhSeBjU3tKU+cQ=
+
+Name: mega/js/vendor/jquery-2.2.1.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: lzYhn9xZAQqnKQSHtYAtAw==
+SHA1-Digest: 8th1V9Kgv8VfgGK91gag/8dbGlM=
+
+Name: mega/js/vendor/jquery-ui.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: uX77dnJwOcXJE1q5hz5clQ==
+SHA1-Digest: 3slj5IgTrJyj4UQa+vQlfY4RQ84=
+
+Name: mega/js/vendor/jquery.fullscreen.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Uzt89ixOOhTjDyFu6T86Yg==
+SHA1-Digest: abf0JlXpRvPWQ7UZ90z2YvTCRdY=
+
+Name: mega/js/vendor/jquery.jscrollpane.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jFOnFXYC0IDz2hV3lu4ibw==
+SHA1-Digest: oFVM6Q86mPAeyWON19IW9X+FXJw=
+
+Name: mega/js/vendor/jquery.mobile.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: iNxuRYXZjS6AvSyME93/fQ==
+SHA1-Digest: Y3gElRMPfjOLILaj4XCOnOtoxfA=
+
+Name: mega/js/vendor/jquery.mousewheel.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: RW1cWijuKTYF4b1yLt0kKQ==
+SHA1-Digest: 2SUhAzLvs9a6Vn9TiYlv+/dqpbE=
+
+Name: mega/js/vendor/jquery.qrcode.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +iSMjZOWM1XnqJeqGIOW7w==
+SHA1-Digest: 9zMkQZTuaRyfIrLrYGyAV5SiX0k=
+
+Name: mega/js/vendor/jsbn.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: BtAbAAqSs2jniX6IKM19RQ==
+SHA1-Digest: M/XjPpjw9EOmFHOoZikMkxXLxVY=
+
+Name: mega/js/vendor/jsbn2.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: QCy4Mel0f3sAKc4GuM12vQ==
+SHA1-Digest: 8q04+EED7yMXUWBR7pOQGj0jcJU=
+
+Name: mega/js/vendor/megalist.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: UShcSa01gGP2byYvOZ3wHQ==
+SHA1-Digest: Jwf3owzw6ToxR/m24+8k0P+6yA0=
+
+Name: mega/js/vendor/megaLogger.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: JKYeWUf/su1vX5bFZvjfcg==
+SHA1-Digest: oouNO6kHDsH+kKbs36MgRQutthI=
+
+Name: mega/js/vendor/megapix.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: p2fH2JX3urPuvDNbaPYoPw==
+SHA1-Digest: JxsHbLeJ/KpYfysmT6sezf3ypZA=
+
+Name: mega/js/vendor/moment.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zZ8LLRs+CLKPFMu211IX7g==
+SHA1-Digest: ZTlePlWtxeKVPgPIN4+qXNDjJN4=
+
+Name: mega/js/vendor/nacl-fast.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: G6i6z5udcCFqD/kpyrYiLA==
+SHA1-Digest: jNzl4rKN4TIw/heO0r888Tnp8Z8=
+
+Name: mega/js/vendor/notification.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zexfix8/zdIPFKUdtANxIA==
+SHA1-Digest: BNnnghpVj13LXPaIUwgWPzAzHVg=
+
+Name: mega/js/vendor/pdf.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ihJ0lcfAEKSEB4AnAGfNfQ==
+SHA1-Digest: u8Ob9Ol8MNK2uIHqTIISXV1WC24=
+
+Name: mega/js/vendor/pdf.viewer.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: UMwhNi9qfbaoafa70vzj0Q==
+SHA1-Digest: 3v9L5+6EQAVjfg/7qkNj3m53dnw=
+
+Name: mega/js/vendor/perfect-scrollbar.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qDq20G9TjLqvlmp/6Cx8DQ==
+SHA1-Digest: JRUQ8a/Vus8AMxMW/lfsPtlpFfQ=
+
+Name: mega/js/vendor/qrcode.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 81vy8oYypxl+0CmVMx5fvQ==
+SHA1-Digest: WlI3zEIrHo3YIFOdYYxCbwxsBzk=
+
+Name: mega/js/vendor/react-dom.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: LhW68OPD1JbJJOMiZIuAOw==
+SHA1-Digest: BzXB2Rz4+eCjFcJNxMZihp9KEkU=
+
+Name: mega/js/vendor/react.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: cTbjA/PKZzt0+VxIm86w7g==
+SHA1-Digest: LAlsbZl4EQOBSHXLwjXy5LTNbbY=
+
+Name: mega/js/vendor/smartcrop.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: vwZbzIz516/baMlukL0CWQ==
+SHA1-Digest: nRmpYO1x0fHtL1al1PTCPUfhDSI=
+
+Name: mega/js/vendor/twemoji.noutf.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 69PhN9UNCXcAw9JJCYE0Sw==
+SHA1-Digest: uLIqOVtYQ6jTUxKTaFJzVAMtz7Y=
+
+Name: mega/js/vendor/verge.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: T62QfAtlf//3oxLi9dlJ2Q==
+SHA1-Digest: 8w4R+fDE1wHo3KuUfdb47lf+jwQ=
+
+Name: mega/js/vendor/videostream.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ugYiStK8JuQlBYatZLSQnA==
+SHA1-Digest: pvoUt/i3PbiP1DNGDQzpitNjXp0=
+
+Name: mega/js/vendor/zxcvbn.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: EpVqYdFD2HqcBk6RoSwzoA==
+SHA1-Digest: a9W/1NrQKzAngGPqTbEFqzyg1Es=
+
+Name: mega/js/vendor/chat/adapter.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: H/yg1nmYw3R33q2BbIZf6Q==
+SHA1-Digest: tLWmBfkEuQeKbXPIAR0j0T/5Gq8=
+
+Name: mega/lang/ar.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sQccwgsa4jdfVN0mp+cJhA==
+SHA1-Digest: Msm1V/96BUzfhlO5s2FafMd3trA=
+
+Name: mega/lang/bg.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qh0tsE1r8wkwdA7PUbxHUA==
+SHA1-Digest: 3YwZEfb+9vrPwiQLec4pcRiGuTw=
+
+Name: mega/lang/br.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +qVjfgeLTt01mQ04HdaROQ==
+SHA1-Digest: DbZqnzkgCGkkZ9RWny91n8+WMWM=
+
+Name: mega/lang/cn.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zemRaurZtqYP4igprzXBsw==
+SHA1-Digest: IfwGJHzbeWEZPX63w/L6r976jik=
+
+Name: mega/lang/ct.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: CcBDmQ8KZYniM3SttZw7FA==
+SHA1-Digest: edMdZT8T+qobFaGJamxzDd1FxPY=
+
+Name: mega/lang/cz.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: hDx0Wjnk+/5EULPjbzXhfg==
+SHA1-Digest: p83Oycqi27No77+edaMlK1SeB1I=
+
+Name: mega/lang/de.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zUeFInfzDuTz+vWFDA615Q==
+SHA1-Digest: +U1j8E0sqVW2hiVb8zh5WrYhmlA=
+
+Name: mega/lang/en.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: UpGHGud6+Kw2zR42WArfuA==
+SHA1-Digest: sq/KP7wYs97dLH212+D78zr1Ld0=
+
+Name: mega/lang/es.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: pubAwRAnfd4yRYstSkil9w==
+SHA1-Digest: giCZOIo3HambofKVs/aeEdl/mkg=
+
+Name: mega/lang/fa.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +ynicVsXJJG6daCxCHNO3Q==
+SHA1-Digest: gOwBf+pmIQ75rrUhoLCzPV9Ef9I=
+
+Name: mega/lang/fi.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: kGBkwvslEf1vmDrGyCafbA==
+SHA1-Digest: wzqoC89dUI9a9NYVbjfyoG2zZZE=
+
+Name: mega/lang/fr.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: aUWJ4pudkhSw/tKkKC07lg==
+SHA1-Digest: CYnnni52sLn1o4kJ1B1hFVmKXGo=
+
+Name: mega/lang/he.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ys88dIDFCtDx5keCBV5lfQ==
+SHA1-Digest: VLrF4zQYmXWhWVSFyJPVv91LBbE=
+
+Name: mega/lang/hu.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: yM70qV579S4uEnKaaCXQjg==
+SHA1-Digest: 7/7Xy058tDthMqA16Fn0e5+Hvs8=
+
+Name: mega/lang/id.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: NkwN4/5+3Q2fup0QtMKqng==
+SHA1-Digest: Z49mNzoOU3Yq2ldC3UNOO7x0Obo=
+
+Name: mega/lang/it.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 81Ut/FnR1JJ3DmKJt8ulRw==
+SHA1-Digest: xTScgDFN4PFa/KFC4WoQ0LHApLI=
+
+Name: mega/lang/jp.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: LH8SbZtqXQYjl1prBfLCFA==
+SHA1-Digest: 8nzyWf9UAzntutsrsgEIzk1Bato=
+
+Name: mega/lang/kr.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: yAGHOvB2q8jxoNZflUF9JQ==
+SHA1-Digest: MemexFwoC5LBzdldyHZU6/pISUc=
+
+Name: mega/lang/nl.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: kBMW7A5cT8dRYe5dLAUsZQ==
+SHA1-Digest: qYGRuPHACETKzyJvZ19zbp5ITlw=
+
+Name: mega/lang/pl.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: BwKyuIqve+K4EBC741PaIQ==
+SHA1-Digest: lLmLFEGcn+z2yl43sLUzMpPaS04=
+
+Name: mega/lang/pt.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: fycPvOW7L5r1cfTDeDPShA==
+SHA1-Digest: vy4zAMrVptDlTp8oncGTrWt7STM=
+
+Name: mega/lang/ro.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: gciI/6FWVWPydsSI+xUBBQ==
+SHA1-Digest: tvXTK2M7sowOLXO19Gdx+f9AA3g=
+
+Name: mega/lang/ru.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: VUDXRFGHDkPQUKckeqUsww==
+SHA1-Digest: sldGTZEHl8CyFIVtpiRhmb3hckM=
+
+Name: mega/lang/se.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ia/gkgMswoKOkfM81FCTvw==
+SHA1-Digest: DFy469B/7enEFDvJ379lpQBEA90=
+
+Name: mega/lang/sk.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: UgqL/Xy8t2xcdxd1HZTkyA==
+SHA1-Digest: UiLLGcU2d6Cro0CCtTzyXYGqyPM=
+
+Name: mega/lang/sl.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +2dN40a0gRFxmiekn41p1Q==
+SHA1-Digest: /rs55G5FsxBnZKNxTo6QPrIEhmU=
+
+Name: mega/lang/sr.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7UP25Kx+0BfyQf3INrZsmg==
+SHA1-Digest: ASZ4tldfRiKluVSB12VXkEDqKKw=
+
+Name: mega/lang/strings.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: OA+fc+McdUAEAgSC1x9wFg==
+SHA1-Digest: Ev43yfXe0Kolzmehc1BYbitDTuU=
+
+Name: mega/lang/th.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: RIifebSht8w4/rn6m2yk4g==
+SHA1-Digest: lDfwVw9470+0D7JIMpyzv/SVZVo=
+
+Name: mega/lang/tl.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: OImoHZqrDFPxDfCQPH3jDA==
+SHA1-Digest: kFnSRGuUPMGIc9V279hpR2sBrhg=
+
+Name: mega/lang/tr.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 2zyPyuzNJnjBpDui4msK+w==
+SHA1-Digest: zRIkkWCVoJO6OB6w68XfDyh8psA=
+
+Name: mega/lang/uk.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: iWisyEJq3c+uoA1YxDhvXQ==
+SHA1-Digest: XOB6Xs0dXVJIoz+AvrUxPGcDDhU=
+
+Name: mega/lang/vi.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: z+0vYv1Zm+/iW2QhkHg6OQ==
+SHA1-Digest: +7f0vLiNhd0nDbXL55SwYp6htu8=
+
